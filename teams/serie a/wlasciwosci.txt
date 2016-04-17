@@ -1,0 +1,5 @@
+wczytywane s¹ stany dla wêz³ów:0 6 oraz 10 16
+
+
+"Liczba dni od ostatniego meczu", "0-3,4-5,6-8"
+"Zwyciêstwa w ostatnich meczach", "wiêkszoœæ,po³owa,ma³o"
